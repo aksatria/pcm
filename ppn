@@ -1,1 +1,0 @@
-"  PPN: Rp " . number_format($voucher-, 0, ',', '.') . "\n";

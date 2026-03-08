@@ -1,1 +1,0 @@
-"  Total Bayar: Rp " . number_format($voucher-, 0, ',', '.') . "\n";

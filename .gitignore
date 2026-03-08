@@ -22,3 +22,10 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+
+# Local temp/scratch artifacts
+/_tmp/
+/_tmp*
+/tmp/
+/*.bak
+/*.code-workspace

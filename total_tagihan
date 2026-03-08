@@ -1,1 +1,0 @@
-"  Total Tagihan: Rp " . number_format($voucher-, 0, ',', '.') . "\n";
