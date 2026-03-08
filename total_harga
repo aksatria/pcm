@@ -1,0 +1,1 @@
+"Voucher Item created: {$item->kode} - Rp " . number_format($item-, 0, ',', '.') . "\n";
